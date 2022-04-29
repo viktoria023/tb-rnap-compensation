@@ -1,6 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viktoria023/tb-rnap-compensation.git/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/viktoria023/tb-rnap-compensation.git/HEAD
 
 # tb-rnap-compensation
 Investigation of the role of compensatory mutations in rifamycin resistance in M. tuberculosis
