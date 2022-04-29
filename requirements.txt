@@ -1,3 +1,5 @@
+pyhton == 3.7.12
+
 pandas
 numpy
 
