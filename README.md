@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viktoria023/tb-rnap-compensation.git/HEAD)
 
-# Please note that the updated and final verion of this repository can be found at: `https://github.com/fowler-lab/tb-rnap-compensation.git`
+## Please note that the updated and final verion of this repository can be found at: `https://github.com/fowler-lab/tb-rnap-compensation.git`
 
 # tb-rnap-compensation
 Investigation of the role of compensatory mutations in rifamycin resistance in M. tuberculosis
